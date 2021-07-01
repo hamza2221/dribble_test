@@ -2,4 +2,4 @@
 
 - only css grid and flexbox used
 
-![image](img/vueMockup.png)
+![image](img/mockup.png)
